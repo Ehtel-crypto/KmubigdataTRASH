@@ -1,0 +1,1 @@
+{"final_model": "ResNet18 finetune", "test_acc": 0.9695, "test_loss": 0.1243, "val_acc": 0.9622, "n_test": 2328}
